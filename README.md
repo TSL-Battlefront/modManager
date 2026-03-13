@@ -12,7 +12,7 @@ This repository is only used for distributing releases and update metadata.
 
 Example of launching the application and selecting approved mods.
 
-![App with cache and script](assets/launch.gif)
+![App with cache and script](/launch.gif)
 
 ## Download
 
