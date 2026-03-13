@@ -2,8 +2,6 @@
 
 This mod manager was created for competitive play in **Star Wars Battlefront (2015)**, allowing administrators to control which mods players are using.
 
-The application technically works with any game running on EA's Frostbite engine, but it has only been tested with SWBF 2015.
-
 The goal is to make competitive play more secure by only allowing players to select from pre-installed, approved mods (without import functionality).
 
 This repository is only used for distributing releases and update metadata.
