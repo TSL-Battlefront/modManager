@@ -18,7 +18,7 @@ Example of launching the application and selecting approved mods.
 
 Download the latest installer from the **Releases** page:
 
-https://github.com/TSL-Battlefront/modManager/releases
+[Releases](https://github.com/TSL-Battlefront/modManager/releases)
 
 Download the newest `.exe` file from the **Assets** section.
 
@@ -30,7 +30,7 @@ Download the newest `.exe` file from the **Assets** section.
 
 ## Attribution
 
-This project is based on Frosty Toolsuite:
+This project was based on Frosty Toolsuite:
 
 - Original implementation: https://github.com/CadeEvs/FrostyToolsuite  
 - Ongoing rewrite project: https://github.com/FrostyToolsuite/FrostyToolsuite
