@@ -26,6 +26,10 @@ Download the newest `.exe` file from the **Assets** section.
 - .NET Framework 4.8 or later
 - Game executable (Star Wars Battlefront 2015)
 
+## License
+
+This project is distributed under the GNU General Public License v3.0 (GPL-3.0), in accordance with the original Frosty Toolsuite license.
+
 ## Attribution
 
 This project was based on Frosty Toolsuite:
