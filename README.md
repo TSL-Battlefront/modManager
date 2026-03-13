@@ -30,6 +30,8 @@ Download the newest `.exe` file from the **Assets** section.
 
 This project is distributed under the GNU General Public License v3.0 (GPL-3.0), in accordance with the original Frosty Toolsuite license.
 
+The source code for the modified version used to build these releases is available upon request, as required by the GPL.
+
 ## Attribution
 
 This project was based on Frosty Toolsuite:
